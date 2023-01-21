@@ -1,0 +1,15 @@
+[
+  {"url": "kon/001.wav", "type": "audio", "bank": "kon", "n":0},
+  {"url": "kon/003.wav", "type": "audio", "bank": "kon", "n":1},
+  {"url": "kon/005.wav", "type": "audio", "bank": "kon", "n":2},
+  {"url": "kon/007.wav", "type": "audio", "bank": "kon", "n":3},
+  {"url": "kon/008.wav", "type": "audio", "bank": "kon", "n":4},
+  {"url": "kon/009.wav", "type": "audio", "bank": "kon", "n":5},
+  {"url": "kon/010.wav", "type": "audio", "bank": "kon", "n":6},
+  {"url": "kon/015.wav", "type": "audio", "bank": "kon", "n":7},
+  {"url": "kon/016.wav", "type": "audio", "bank": "kon", "n":8},
+  {"url": "kon/018.wav", "type": "audio", "bank": "kon", "n":9},
+  {"url": "kon/010.wav", "type": "audio", "bank": "kon", "n":10},
+  {"url": "kon/020.wav", "type": "audio", "bank": "kon", "n":11},
+  {"url": "kon/021.wav", "type": "audio", "bank": "kon", "n":12}
+	]
